@@ -6,6 +6,7 @@ SKIRT synthetic photometry of Romulus dwarf-galaxy zoom-ins. Earlier development
 
 - `src/` — pipeline modules (particle extraction, photometry, SFH)
 - `scripts/` — helpers
+- `notebooks/` - Jupyter notebooks
 - `configs/` — SKIRT `.ski` templates and run lists
 - `notes/` — work diary
 - `reference/` — other people's code
